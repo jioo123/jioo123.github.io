@@ -6,7 +6,7 @@
 name: Jioo's Blog
 
 # Short bio or description (displayed in the header)
-description: For Study
+description: 갓소금 잡학사전
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: https://github.com/jioo123
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
